@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mi colección personal -->
+<catalogo>
+  <juego>
+    <titulo>Minecraft</titulo>
+    <genero>Sandbox / Supervivencia</genero>
+  </juego>
+  <juego>
+    <titulo>Fortnite</titulo>
+    <genero>Battle Royale</genero>
+  </juego>
+  <juego>
+    <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+    <genero>Aventura / Acción</genero>
+  </juego>
+  <juego>
+    <titulo>FIFA 24</titulo>
+    <genero>Deportes</genero>
+  </juego>
+  <juego>
+    <titulo>Super Mario Odyssey</titulo>
+    <genero>Plataformas / Aventura</genero>
+  </juego>
+</catalogo>
